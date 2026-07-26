@@ -1,5 +1,3 @@
-# Hi, I'm Vrishabh
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=1000&color=00F7FF&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vrishabh+Deshmukh+ROBOMAN)](https://git.io/typing-svg)
 
 ```text
@@ -32,12 +30,6 @@
 ++*%%%%%%%%@@%%%@%%@%@@@%%%%%%@@@@@@@%@%%%%%%@%%%%
 ++%%%%%%%%@@%%%%@%%@@%@@@@%%@@@@@@@@%%@@@@@%@@@@%%
 ```
-
-# Skills 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,flask,fastapi,mongodb,mysql,git,github,vscode,arduino,tensorflow,pytorch,opencv&perline=7" />
-</p>
 ## 👨‍💻 About Me
 
 ```text
@@ -52,6 +44,13 @@
 │ Location  : Durg, Chhattisgarh               │
 └──────────────────────────────────────────────┘
 ```
+
+# Skills 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,flask,fastapi,mongodb,mysql,git,github,vscode,arduino,tensorflow,pytorch,opencv&perline=7" />
+</p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -78,12 +77,12 @@
 - 🤖 Arduino Robotics Projects
 - 🐍 Python Backend APIs
 
-
-## 👀 Profile Views
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=imVrishabh&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://raw.githubusercontent.com/imVrishabh/imVrishabh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 
 ## 🌐 Connect With Me
 
@@ -92,3 +91,8 @@
 <a href="mailto:vrishabh0280@gmail.com">Email</a>
 </p>
 
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=imVrishabh&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
