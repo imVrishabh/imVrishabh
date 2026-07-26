@@ -1,9 +1,12 @@
 #Welcomme
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imVrishabh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,flask,fastapi,mongodb,mysql,git,github,vscode,arduino,tensorflow,pytorch,opencv&perline=7" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=1000&color=00F7FF&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vrishabh+Deshmukh+AI+Engineer+Backend+Developer+Robotics+Engineer+Building+AI+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=1000&color=00F7FF&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vrishabh+Deshmukh+ROBOMAN)](https://git.io/typing-svg)
 
 """text
 ===###++++++++*++*+****##%%####***+++====---------------------
