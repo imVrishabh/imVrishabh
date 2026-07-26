@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=1000&color=00F7FF&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vrishabh+Deshmukh+ROBOMAN)](https://git.io/typing-svg)
 
-"""
+```text
 -=*#*+==+++*+***########**++=====----------::----:
 -=*#**########**+======++########*+++----:--------
 -=+*+++===----------+#%%%%%%%%#%#####**-----------
@@ -31,38 +31,20 @@
 +++%%%%%%%%%@%@@%%%@@@@@%%%%%%%%@%%@@%%%%%%%%%%%%%
 ++*%%%%%%%%@@%%%@%%@%@@@%%%%%%@@@@@@@%@%%%%%%@%%%%
 ++%%%%%%%%@@%%%%@%%@@%@@@@%%@@@@@@@@%%@@@@@%@@@@%%
-"""
+```
 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,flask,fastapi,mongodb,mysql,git,github,vscode,arduino,tensorflow,pytorch,opencv&perline=7" />
 </p>
-"""
-├──────────────────────────────────────────────────────────────────────────────┤
-│ Name         : Vrishabh Deshmukh                                             │
-│ Username     : @YOUR_GITHUB_USERNAME                                         │
-│ Role         : AI Engineer | Backend Developer | Robotics Engineer           │
-│ Education    : B.Tech CSE (Artificial Intelligence)                          │
-│ Location     : India                                                         │
-│                                                                              │
-│ Programming  : Python |                                                      │
-│ Backend      : Flask | FastAPI |                                             │
-│ Database     : MongoDB | MySQL                                               │
-│ AI / ML      : NumPy | Pandas | OpenCV | TensorFlow | PyTorch                │
-│ Robotics     : Arduino | ESP32 | IoT | Sensors                               │
-│ Tools        : Git | GitHub | VS Code                                        │
-│                                                                              │
-│ Currently Learning                                                           │
-│ • Large Language Models (LLMs)                                               │
-│ • Backend Architecture                                                       │
-│ • Robotics & Automation                                                      │
-│ • Computer Vision                                                            │
-│ • Data Structures & Algorithms                                               │
-│                                                                              │
-│ Goal                                                                         │
-│ Build AI-powered applications, intelligent robots, and real-world products.  │
-└──────────────────────────────────────────────────────────────────────────────┘
-"""
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ Name      : Vrishabh Deshmukh                               │
+│ Role      : AI Engineer                                     │
+│ Backend   : FastAPI                                         │
+│ Robotics  : Arduino, ESP32                                 │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imVrishabh&show_icons=true&theme=tokyonight&hide_border=true" />
