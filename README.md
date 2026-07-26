@@ -34,3 +34,34 @@
 +++*%%%%%%@%%%@@%@@@@%@@%%@@@@%%%%%%%@%@@@%@@@%@@@@%%%%%@%%%%%
 +++#%%%%%@%%%@@@%@%@@%%@@%%@@@@%%%%%@@@@@@@@@%%@@@@@@@@@@@%%%%
 ++*%%%%%%%@@%@@%%@%@@@%%@@%%@@@@@%@@@@@@@@@@@@%@@@@@@@@@@@@%%%"""
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│                            (YOUR ASCII PORTRAIT)                             │
+│                                                                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Name         : Vrishabh Deshmukh                                             │
+│ Username     : @YOUR_GITHUB_USERNAME                                         │
+│ Role         : AI Engineer | Backend Developer | Robotics Engineer           │
+│ Education    : B.Tech CSE (Artificial Intelligence)                          │
+│ Location     : India                                                         │
+│                                                                              │
+│ Programming  : Python |                                                      │
+│ Backend      : Flask | FastAPI |                                             │
+│ Database     : MongoDB | MySQL                                               │
+│ AI / ML      : NumPy | Pandas | OpenCV | TensorFlow | PyTorch                │
+│ Robotics     : Arduino | ESP32 | IoT | Sensors                               │
+│ Tools        : Git | GitHub | VS Code                                        │
+│                                                                              │
+│ Currently Learning                                                           │
+│ • Large Language Models (LLMs)                                               │
+│ • Backend Architecture                                                       │
+│ • Robotics & Automation                                                      │
+│ • Computer Vision                                                            │
+│ • Data Structures & Algorithms                                               │
+│                                                                              │
+│ Goal                                                                         │
+│ Build AI-powered applications, intelligent robots, and real-world products.  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
